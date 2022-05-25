@@ -1,0 +1,10 @@
+from Persona import Persona
+
+
+class jugador(persona):
+    def __init__(self, nombre:str,nif:str,fechaNac:str,numFed:INTEGER):
+        self.numFed=numFed
+
+     def crearJugador (self):
+         return crearJugador
+         
